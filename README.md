@@ -2,6 +2,7 @@
 
 ## 初衷(Original Intention)
 
+- 很抱歉，这个项目的源地址是：<https://github.com/judasn/Linux-Tutorial>，本版本不做维护。
 - 本系列历时半年之久，初稿预计这个月底（2016-03）就可以结算，感谢自己坚持下来。
 - 整理下自己所学
 - 带动更多的人进入 Linux 世界，特别是做 Java 开发的人
